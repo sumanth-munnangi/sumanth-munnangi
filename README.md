@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumanth-munnangi
 - 👀 I’m interested in everything and anything to do with data
-- 🌱 I’m currently learning Machine Learnng 
+- 🌱 I’m currently learning Machine Learning 
 - 📫 Feel free to reach out to me at sumanthreddymunnangi@gmail.com
 
 <!---
