@@ -10,9 +10,13 @@ Data Science and Analytics professional with three years of professional experie
 ##### Public Repos:
 
 Statistics and ML with R: https://github.com/sumanth-munnangi/stats_and_ml_with_r
+
 Statistics and ML with Python: https://github.com/sumanth-munnangi/Stats_and_ML_with_python
+
 Causal Inference: https://github.com/sumanth-munnangi/causal_inference
+
 Webscraping: https://github.com/sumanth-munnangi/webscraping
+
 Utility functions in Python: https://github.com/sumanth-munnangi/python_udf/
 
 ##### Awards and Honors:
