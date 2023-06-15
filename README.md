@@ -22,15 +22,21 @@ Utility functions in Python: https://github.com/sumanth-munnangi/python_udf/
 ##### Awards and Honors:
 
 Student Body President, MSBA '23, UC Davis
+
 Inducted to Beta Gamma Sigma, The International Business Honor Society
+
 Scholarship - MSBA Fellowship
+
 Scholarship - Graduate School of Management Grant 
+
 Spot Award @Mu Sigma 
+
 Spot Award @PayU
 
 ##### I do fun stuff:
 
 I love to hike, travel, and drive 
+
 I take good pictures - https://instagram.com/sumanth_munnangi
 
 <!---
