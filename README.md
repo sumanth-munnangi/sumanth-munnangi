@@ -30,8 +30,8 @@ Data Science and Analytics professional with three years of professional experie
 - I take good pictures - https://instagram.com/sumanth_munnangi
 
 ##### Education 👨‍🎓:
-Masters in Business Analytics at UC Davis Graduate School of Management'2023
-Bachelor of Technology from VIT 2019
+- Masters in Business Analytics at UC Davis Graduate School of Management'2023
+- Bachelor of Technology from VIT 2019
 <!---
 sumanth-munnangi/sumanth-munnangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
