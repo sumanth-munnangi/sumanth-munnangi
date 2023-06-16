@@ -1,4 +1,4 @@
-### 👋 Hello, if you are here on this page you are probably looking for a skilled data professional to collaborate with. Follow along to know more about me and all the fun projects I have been working on.  
+###### 👋 Hello, if you are here on this page you are probably looking for a skilled data professional to collaborate with. Follow along to know more about me and all the fun projects I have been working on.  
 
 ###### Meanwhile you can find me on Linkedin here: https://www.linkedin.com/in/sumanth-munnangi/
 
