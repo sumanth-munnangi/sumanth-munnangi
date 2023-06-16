@@ -9,36 +9,29 @@ Data Science and Analytics professional with three years of professional experie
 
 ##### Public Repos:
 
-Statistics and ML with R: https://github.com/sumanth-munnangi/stats_and_ml_with_r
-
-Statistics and ML with Python: https://github.com/sumanth-munnangi/Stats_and_ML_with_python
-
-Causal Inference: https://github.com/sumanth-munnangi/causal_inference
-
-Webscraping: https://github.com/sumanth-munnangi/webscraping
-
-Utility functions in Python: https://github.com/sumanth-munnangi/python_udf/
+- Statistics and ML with R: https://github.com/sumanth-munnangi/stats_and_ml_with_r
+- Statistics and ML with Python: https://github.com/sumanth-munnangi/Stats_and_ML_with_python
+- Causal Inference: https://github.com/sumanth-munnangi/causal_inference
+- Webscraping: https://github.com/sumanth-munnangi/webscraping
+- Utility functions in Python: https://github.com/sumanth-munnangi/python_udf/
 
 ##### Awards and Honors:
 
-Student Body President, MSBA '23, UC Davis
-
-Inducted to Beta Gamma Sigma, The International Business Honor Society
-
-Scholarship - MSBA Fellowship
-
-Scholarship - Graduate School of Management Grant 
-
-Spot Award @Mu Sigma 
-
-Spot Award @PayU
+- Student Body President, MSBA '23, UC Davis
+- Inducted to Beta Gamma Sigma, The International Business Honor Society
+- Scholarship - MSBA Fellowship
+- Scholarship - Graduate School of Management Grant 
+- Spot Award @Mu Sigma 
+- Spot Award @PayU
 
 ##### I do fun stuff:
 
-I love to hike, travel, and drive 
+- I love to hike, travel, and drive 
+- I take good pictures - https://instagram.com/sumanth_munnangi
 
-I take good pictures - https://instagram.com/sumanth_munnangi
-
+##### Education 👨‍🎓:
+Masters in Business Analytics at UC Davis Graduate School of Management'2023
+Bachelor of Technology from VIT 2019
 <!---
 sumanth-munnangi/sumanth-munnangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
